@@ -21,6 +21,7 @@
     "codemie-kimi-acp": "./bin/codemie-kimi-acp.js",
     "codemie-openwiki": "./bin/codemie-openwiki.js",
     "codemie-mcp-proxy": "./bin/codemie-mcp-proxy.js",
+    "codemie-proxy": "./bin/codemie-proxy.js",
     "proxy-daemon": "./bin/proxy-daemon.js",
     "codemie-copilot": "./bin/codemie-copilot.js"
   },
